@@ -5,7 +5,7 @@ module.exports = {
       scripts: [
         {
           label: "server",
-          command: "ts-node server/index.ts",
+          command: "node server/index.js",
           left: 0,
           top: 0,
           width: "50%",
